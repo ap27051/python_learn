@@ -1,12 +1,11 @@
 #flow control learning code
+#the /n does not bring the blank line however \n does
 
-#if /n is added incorrectly it will not result in new line in this case
+print("Welcome to Patole's Python Academy" + "\n")
 
-print("Welcome to Patole's Python Academy /n")
+print("This code will help you understand how to you use if else in python" + "\n")
 
-print("This code will help you understand how to you use if else in python /n")
-
-print("Kindly Enter The User Name /n")
+print("Kindly Enter The User Name \n")
 
 name = input()
 
