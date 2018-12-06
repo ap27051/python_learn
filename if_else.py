@@ -1,10 +1,13 @@
 #flow control learning code
 
-print("Welcome to Patole's Python Academy")
+#if /n is added incorrectly it will not result in new line in this case
 
-print("This code will help you understand how to you use if else in python")
+print("Welcome to Patole's Python Academy /n")
 
-print("Kindly Enter The User Name")
+print("This code will help you understand how to you use if else in python /n")
+
+print("Kindly Enter The User Name /n")
+
 name = input()
 
 if name == "Avinash":
